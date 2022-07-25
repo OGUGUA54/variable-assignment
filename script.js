@@ -17,8 +17,6 @@ console.log(myHairColor)
 console.log(myNumberOfSiblings)
 console.log(myFavouriteFood)
 console.log(myFavouriteColor)
-
-
 // Don't edit or touch the code below here!
 // Don't edit or touch the code below here!
 // Don't edit the code below here!
