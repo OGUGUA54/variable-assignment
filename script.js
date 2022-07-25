@@ -5,7 +5,7 @@ let fullname= firstname+lastname
 let introduction= "hello, my name is " + fullname
 let myEyesColor= "black"
  let myHairColor= "black"
- let myNumberOfSiblings= 1
+ let myNumberOfSibling= 1
  let myFavouriteFood= "plantain"
  let myFavouriteColor= "red"
  console.log(firstname)
@@ -14,7 +14,7 @@ let myEyesColor= "black"
 console.log(introduction + fullname)
 console.log( myEyesColor)
 console.log(myHairColor)
-console.log(myNumberOfSiblings)
+console.log(myNumberOfSibling)
 console.log(myFavouriteFood)
 console.log(myFavouriteColor)
 
